@@ -36,7 +36,6 @@ public class Vehiculo {
 
 
 //Autor: Fernando Romero Fernández
-
-
+//Descripción: vehículo perteneciente a una flota de vehículos
 
 }
