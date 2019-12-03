@@ -32,4 +32,11 @@ public class Vehiculo {
 	public void setModelo(String modelo) {
 		this.modelo = modelo;
 	}
+
+
+
+//Autor: Fernando Romero Fernández
+
+
+
 }
